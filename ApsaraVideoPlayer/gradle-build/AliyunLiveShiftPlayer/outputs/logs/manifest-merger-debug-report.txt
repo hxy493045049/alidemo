@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/shawn/Downloads/ApsaraVideo_videoPlay_v5.2.1_Android_20200930/demo/ApsaraVideoPlayer/AliyunLiveShiftPlayer/src/main/AndroidManifest.xml:2:1-14:12
+INJECTED from /Users/shawn/Downloads/ApsaraVideo_videoPlay_v5.2.1_Android_20200930/demo/ApsaraVideoPlayer/AliyunLiveShiftPlayer/src/main/AndroidManifest.xml:2:1-14:12
+INJECTED from /Users/shawn/Downloads/ApsaraVideo_videoPlay_v5.2.1_Android_20200930/demo/ApsaraVideoPlayer/AliyunLiveShiftPlayer/src/main/AndroidManifest.xml:2:1-14:12
+	package
+		ADDED from /Users/shawn/Downloads/ApsaraVideo_videoPlay_v5.2.1_Android_20200930/demo/ApsaraVideoPlayer/AliyunLiveShiftPlayer/src/main/AndroidManifest.xml:3:5-58
+		INJECTED from /Users/shawn/Downloads/ApsaraVideo_videoPlay_v5.2.1_Android_20200930/demo/ApsaraVideoPlayer/AliyunLiveShiftPlayer/src/main/AndroidManifest.xml
+		INJECTED from /Users/shawn/Downloads/ApsaraVideo_videoPlay_v5.2.1_Android_20200930/demo/ApsaraVideoPlayer/AliyunLiveShiftPlayer/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/shawn/Downloads/ApsaraVideo_videoPlay_v5.2.1_Android_20200930/demo/ApsaraVideoPlayer/AliyunLiveShiftPlayer/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/shawn/Downloads/ApsaraVideo_videoPlay_v5.2.1_Android_20200930/demo/ApsaraVideoPlayer/AliyunLiveShiftPlayer/src/main/AndroidManifest.xml:5:5-12:19
+activity#com.aliyun.ui.activity.AliyunLiveShiftActivity
+ADDED from /Users/shawn/Downloads/ApsaraVideo_videoPlay_v5.2.1_Android_20200930/demo/ApsaraVideoPlayer/AliyunLiveShiftPlayer/src/main/AndroidManifest.xml:7:9-10:67
+	android:screenOrientation
+		ADDED from /Users/shawn/Downloads/ApsaraVideo_videoPlay_v5.2.1_Android_20200930/demo/ApsaraVideoPlayer/AliyunLiveShiftPlayer/src/main/AndroidManifest.xml:9:13-49
+	android:configChanges
+		ADDED from /Users/shawn/Downloads/ApsaraVideo_videoPlay_v5.2.1_Android_20200930/demo/ApsaraVideoPlayer/AliyunLiveShiftPlayer/src/main/AndroidManifest.xml:8:13-74
+	android:theme
+		ADDED from /Users/shawn/Downloads/ApsaraVideo_videoPlay_v5.2.1_Android_20200930/demo/ApsaraVideoPlayer/AliyunLiveShiftPlayer/src/main/AndroidManifest.xml:10:13-63
+	android:name
+		ADDED from /Users/shawn/Downloads/ApsaraVideo_videoPlay_v5.2.1_Android_20200930/demo/ApsaraVideoPlayer/AliyunLiveShiftPlayer/src/main/AndroidManifest.xml:7:19-80
+uses-sdk
+INJECTED from /Users/shawn/Downloads/ApsaraVideo_videoPlay_v5.2.1_Android_20200930/demo/ApsaraVideoPlayer/AliyunLiveShiftPlayer/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/shawn/Downloads/ApsaraVideo_videoPlay_v5.2.1_Android_20200930/demo/ApsaraVideoPlayer/AliyunLiveShiftPlayer/src/main/AndroidManifest.xml
+INJECTED from /Users/shawn/Downloads/ApsaraVideo_videoPlay_v5.2.1_Android_20200930/demo/ApsaraVideoPlayer/AliyunLiveShiftPlayer/src/main/AndroidManifest.xml
+INJECTED from /Users/shawn/Downloads/ApsaraVideo_videoPlay_v5.2.1_Android_20200930/demo/ApsaraVideoPlayer/AliyunLiveShiftPlayer/src/main/AndroidManifest.xml
+INJECTED from /Users/shawn/Downloads/ApsaraVideo_videoPlay_v5.2.1_Android_20200930/demo/ApsaraVideoPlayer/AliyunLiveShiftPlayer/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/shawn/Downloads/ApsaraVideo_videoPlay_v5.2.1_Android_20200930/demo/ApsaraVideoPlayer/AliyunLiveShiftPlayer/src/main/AndroidManifest.xml
+		ADDED from /Users/shawn/Downloads/ApsaraVideo_videoPlay_v5.2.1_Android_20200930/demo/ApsaraVideoPlayer/AliyunLiveShiftPlayer/src/main/AndroidManifest.xml
+		INJECTED from /Users/shawn/Downloads/ApsaraVideo_videoPlay_v5.2.1_Android_20200930/demo/ApsaraVideoPlayer/AliyunLiveShiftPlayer/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/shawn/Downloads/ApsaraVideo_videoPlay_v5.2.1_Android_20200930/demo/ApsaraVideoPlayer/AliyunLiveShiftPlayer/src/main/AndroidManifest.xml
+		ADDED from /Users/shawn/Downloads/ApsaraVideo_videoPlay_v5.2.1_Android_20200930/demo/ApsaraVideoPlayer/AliyunLiveShiftPlayer/src/main/AndroidManifest.xml
+		INJECTED from /Users/shawn/Downloads/ApsaraVideo_videoPlay_v5.2.1_Android_20200930/demo/ApsaraVideoPlayer/AliyunLiveShiftPlayer/src/main/AndroidManifest.xml

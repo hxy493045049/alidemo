@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.aliyun.sdk.android:AlivcArtc:5.2.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/AlivcArtc-5.2.1.aar/1941f34be2a1c6775eee0f3bf9ade46b/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/10668f28ccf6a688e3dbcdc28270c7ec/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/AlivcArtc-5.2.1.aar/46acb77af3f86cff54d791e118092f54/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/AlivcArtc-5.2.1.aar/46acb77af3f86cff54d791e118092f54/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/AlivcArtc-5.2.1.aar/46acb77af3f86cff54d791e118092f54/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

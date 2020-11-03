@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/shawn/Downloads/ApsaraVideo_videoPlay_v5.2.1_Android_20200930/demo/ApsaraVideoPlayer/gradle-build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/Users/shawn/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/cefa1b0a0fa455c548f85b9b35e81804/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

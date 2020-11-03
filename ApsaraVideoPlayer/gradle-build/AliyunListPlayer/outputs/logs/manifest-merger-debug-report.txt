@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/shawn/Downloads/ApsaraVideo_videoPlay_v5.2.1_Android_20200930/demo/ApsaraVideoPlayer/AliyunListPlayer/src/main/AndroidManifest.xml:2:1-15:12
+INJECTED from /Users/shawn/Downloads/ApsaraVideo_videoPlay_v5.2.1_Android_20200930/demo/ApsaraVideoPlayer/AliyunListPlayer/src/main/AndroidManifest.xml:2:1-15:12
+INJECTED from /Users/shawn/Downloads/ApsaraVideo_videoPlay_v5.2.1_Android_20200930/demo/ApsaraVideoPlayer/AliyunListPlayer/src/main/AndroidManifest.xml:2:1-15:12
+	package
+		ADDED from /Users/shawn/Downloads/ApsaraVideo_videoPlay_v5.2.1_Android_20200930/demo/ApsaraVideoPlayer/AliyunListPlayer/src/main/AndroidManifest.xml:3:5-49
+		INJECTED from /Users/shawn/Downloads/ApsaraVideo_videoPlay_v5.2.1_Android_20200930/demo/ApsaraVideoPlayer/AliyunListPlayer/src/main/AndroidManifest.xml
+		INJECTED from /Users/shawn/Downloads/ApsaraVideo_videoPlay_v5.2.1_Android_20200930/demo/ApsaraVideoPlayer/AliyunListPlayer/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/shawn/Downloads/ApsaraVideo_videoPlay_v5.2.1_Android_20200930/demo/ApsaraVideoPlayer/AliyunListPlayer/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/shawn/Downloads/ApsaraVideo_videoPlay_v5.2.1_Android_20200930/demo/ApsaraVideoPlayer/AliyunListPlayer/src/main/AndroidManifest.xml:6:5-13:19
+activity#com.aliyun.player.aliyunlistplayer.AliyunListPlayerActivity
+ADDED from /Users/shawn/Downloads/ApsaraVideo_videoPlay_v5.2.1_Android_20200930/demo/ApsaraVideoPlayer/AliyunListPlayer/src/main/AndroidManifest.xml:7:9-11:66
+	android:screenOrientation
+		ADDED from /Users/shawn/Downloads/ApsaraVideo_videoPlay_v5.2.1_Android_20200930/demo/ApsaraVideoPlayer/AliyunListPlayer/src/main/AndroidManifest.xml:10:13-49
+	android:configChanges
+		ADDED from /Users/shawn/Downloads/ApsaraVideo_videoPlay_v5.2.1_Android_20200930/demo/ApsaraVideoPlayer/AliyunListPlayer/src/main/AndroidManifest.xml:9:13-74
+	android:theme
+		ADDED from /Users/shawn/Downloads/ApsaraVideo_videoPlay_v5.2.1_Android_20200930/demo/ApsaraVideoPlayer/AliyunListPlayer/src/main/AndroidManifest.xml:11:13-63
+	android:name
+		ADDED from /Users/shawn/Downloads/ApsaraVideo_videoPlay_v5.2.1_Android_20200930/demo/ApsaraVideoPlayer/AliyunListPlayer/src/main/AndroidManifest.xml:8:13-53
+uses-sdk
+INJECTED from /Users/shawn/Downloads/ApsaraVideo_videoPlay_v5.2.1_Android_20200930/demo/ApsaraVideoPlayer/AliyunListPlayer/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/shawn/Downloads/ApsaraVideo_videoPlay_v5.2.1_Android_20200930/demo/ApsaraVideoPlayer/AliyunListPlayer/src/main/AndroidManifest.xml
+INJECTED from /Users/shawn/Downloads/ApsaraVideo_videoPlay_v5.2.1_Android_20200930/demo/ApsaraVideoPlayer/AliyunListPlayer/src/main/AndroidManifest.xml
+INJECTED from /Users/shawn/Downloads/ApsaraVideo_videoPlay_v5.2.1_Android_20200930/demo/ApsaraVideoPlayer/AliyunListPlayer/src/main/AndroidManifest.xml
+INJECTED from /Users/shawn/Downloads/ApsaraVideo_videoPlay_v5.2.1_Android_20200930/demo/ApsaraVideoPlayer/AliyunListPlayer/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/shawn/Downloads/ApsaraVideo_videoPlay_v5.2.1_Android_20200930/demo/ApsaraVideoPlayer/AliyunListPlayer/src/main/AndroidManifest.xml
+		ADDED from /Users/shawn/Downloads/ApsaraVideo_videoPlay_v5.2.1_Android_20200930/demo/ApsaraVideoPlayer/AliyunListPlayer/src/main/AndroidManifest.xml
+		INJECTED from /Users/shawn/Downloads/ApsaraVideo_videoPlay_v5.2.1_Android_20200930/demo/ApsaraVideoPlayer/AliyunListPlayer/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/shawn/Downloads/ApsaraVideo_videoPlay_v5.2.1_Android_20200930/demo/ApsaraVideoPlayer/AliyunListPlayer/src/main/AndroidManifest.xml
+		ADDED from /Users/shawn/Downloads/ApsaraVideo_videoPlay_v5.2.1_Android_20200930/demo/ApsaraVideoPlayer/AliyunListPlayer/src/main/AndroidManifest.xml
+		INJECTED from /Users/shawn/Downloads/ApsaraVideo_videoPlay_v5.2.1_Android_20200930/demo/ApsaraVideoPlayer/AliyunListPlayer/src/main/AndroidManifest.xml
